@@ -9,5 +9,5 @@ JavaJourney is a collection of my Java projects and practice files, created duri
 ### Prerequisites
 Make sure you have the following installed on your machine:
 
-Java Development Kit (JDK) (version 11 or higher)
-Git
+* Java Development Kit (JDK) (version 11 or higher)
+* Git
