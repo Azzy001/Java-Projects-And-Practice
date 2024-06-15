@@ -1,1 +1,3 @@
-temp
+To create a superclass for a university with Student and Teacher as subclasses, you should define a common superclass (e.g., Person) that holds attributes and methods common to both students and teachers. You can then define specific attributes and methods in the Student and Teacher subclasses.
+
+The ArrayList to store Student and Teacher objects should ideally be in a separate University class that manages these entities. This approach follows the Single Responsibility Principle, where the Person superclass handles common attributes and behaviors, while the University class manages collections of people.
